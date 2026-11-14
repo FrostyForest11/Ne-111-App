@@ -828,7 +828,7 @@ This app is designed to meet **WCAG 2.2 level AA** where it is within the app's 
 
 **Known limitations:** selecting a spot directly on the image needs a pointing device, so use the
 keyboard alternative if you cannot. The app is built on Streamlit, whose built-in widgets set some accessibility
-behaviour. If you find a barrier, please tell the course instructor so it can be fixed.
+behaviour. If you find a barrier, please tell the webapp admin so it can be fixed.
 """
     )
 
